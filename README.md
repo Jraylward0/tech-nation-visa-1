@@ -27,8 +27,8 @@ Evidence that I have played an active role in contributing, teaching and organis
  - [Pull request to JavaScript style guide](https://github.com/lyst/MakingLyst/pull/26)
 
 
- - ###### Contributions to DWYL (an open source software community):
-  - [Pull requests to Tudo app](https://github.com/dwyl/tudo/pulls?q=is%3Apr+author%3Amsmichellegar+is%3Aclosed)
+- ###### Contributions to DWYL (an open source software community):
+ - [Pull requests to Tudo app](https://github.com/dwyl/tudo/pulls?q=is%3Apr+author%3Amsmichellegar+is%3Aclosed)
 
 
 - ###### Contributions to London Node User Group:
