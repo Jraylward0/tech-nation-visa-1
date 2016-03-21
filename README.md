@@ -34,6 +34,11 @@ Evidence that I have played an active role in contributing, teaching and organis
 - ###### Contributions to London Node User Group:
  - [Pull request to related meetups](https://github.com/lnug/related-meetups/pull/10)
 
+
+ - ###### Contributions to Prosecco.js:
+  - [Pull requests to Prosecco.js website](https://github.com/proseccojs/proseccojs/pulls?q=is%3Apr+author%3Amsmichellegar+is%3Aclosed)
+
+
 #### *"Evidence of having undergone continuous learning / mastery of new digital skills (commercial or technical) throughout your career"*
 
 Evidence of experimenting with new technologies, coding libraries, languages and tools.
